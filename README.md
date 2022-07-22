@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Shukla</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3A%2F%2Fperfonec.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3D&risl=&pid=ImgRaw">
 
 
 
